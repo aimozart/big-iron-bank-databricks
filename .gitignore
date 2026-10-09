@@ -1,0 +1,10 @@
+# never commit credentials or workspace config
+.databrickscfg
+*.token
+*.pem
+*.key
+.env
+# local scratch
+tmp/
+__pycache__/
+.venv/
