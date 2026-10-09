@@ -8,3 +8,7 @@
 tmp/
 __pycache__/
 .venv/
+
+# generated fake data and CSV exports stay local
+out/
+results/
